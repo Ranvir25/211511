@@ -1,0 +1,10 @@
+.go{
+           border-color: black;
+           background-color: aliceblue;
+           width: 20%;
+}
+body , .body1 , .body2 , .body3 ,.body4 , .body4
+{
+    background-size: cover;
+}
+
